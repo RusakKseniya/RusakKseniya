@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm <a>Ksusha</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analysis from Russia 🇷🇺</h3>
+
+Languges and Tools
+<img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz" alt="альтернативный текст">
+
+
 -->
 <!--
 **RusakKseniya/RusakKseniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Languges and Tools
-<img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz" alt="альтернативный текст">
