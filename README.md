@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Languges and Tools  
-![](https://drive.google.com/file/d/18eJTCvFY-O135aqGG63fO9ET9ch5smbz/view?usp=drive_link)
+Languges and Tools
+<img src="[https://drive.google.com/file/d/18eJTCvFY-O135aqGG63fO9ET9ch5smbz/view?usp=drive_link]" alt="альтернативный текст">
