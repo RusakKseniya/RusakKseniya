@@ -11,10 +11,8 @@
 -------------
 
 ### :woman_technologist: About Me :
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm in actively looking for work and intresting projects
 
- -  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm in actively looking for work and projects
- -
- - 
 
 
 
@@ -36,15 +34,3 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RusakKseniya)](https://git.io/streak-stats)
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Puthon, SQL 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
