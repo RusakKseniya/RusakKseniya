@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Languges and Tools  
-![](https://drive.google.com/drive/home](https://drive.google.com/drive/my-drive?q=after:2025-03-11%20parent:0AHHffxcfh1zPUk9PVA)
+![](https://drive.google.com/file/d/18eJTCvFY-O135aqGG63fO9ET9ch5smbz/view?usp=drive_link)
