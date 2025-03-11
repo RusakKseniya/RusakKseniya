@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
- - I`m in actively looking for work/projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+ - I'm in actively looking for work and projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 
