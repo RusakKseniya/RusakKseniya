@@ -8,6 +8,9 @@
 </div>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusakKseniya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Languges and Tools
 <img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz">
 
