@@ -3,7 +3,7 @@
 <h3 align="center">Data analysis from Russia 🇷🇺</h3>
 
 Languges and Tools
-<img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz" alt="альтернативный текст">
+<img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz">
 
 
 -->
