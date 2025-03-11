@@ -2,6 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analysis from Russia 🇷🇺</h3>
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFucXcyaGc2Y29jdzh6Ym5mbGRiODl5OXBydHRvcDdlZWJlZ3N4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4CmdB4wGbfZJpdh2GB/giphy.gif" width="100"/>
+</div>
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFucXcyaGc2Y29jdzh6Ym5mbGRiODl5OXBydHRvcDdlZWJlZ3N4ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/4CmdB4wGbfZJpdh2GB/giphy.gif
 Languges and Tools
 <img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz">
 
