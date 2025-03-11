@@ -32,19 +32,9 @@
 
 ----------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusakKseniya&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusakKseniya)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusakKseniya)](https://github.com/anuraghazra/github-readme-stats)
-
-Languges and Tools
-<img src="https://drive.google.com/uc?id=18eJTCvFY-O135aqGG63fO9ET9ch5smbz">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusakKseniya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusakKseniya)](https://github.com/anuraghazra/github-readme-stats)
 
 
--->
-<!--
-**RusakKseniya/RusakKseniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Puthon, SQL 
