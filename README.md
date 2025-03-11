@@ -29,14 +29,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-line-wordmark.svg"  title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
 </div>
 
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
-  https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg
-  </div>
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RusakKseniya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RusakKseniya)](https://github.com/anuraghazra/github-readme-stats)
